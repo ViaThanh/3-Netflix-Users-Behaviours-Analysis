@@ -1,5 +1,6 @@
 **Netflix Userbase Analysis Report**
 
+Other projects : [Projects Introduction](https://github.com/ViaThanh/1-Projects-Introduction), [Sales Data Cleaning&Analysis SQL](https://github.com/ViaThanh/2-Sales-Data-Cleaning-and-Analysis-with-SQL), [Investment Opportunity Analysis](https://github.com/ViaThanh/4-Data-Preprocessing-and-Investment-Opportunity-Analysis)
 ### Dataset Overview
 
 The dataset provides a snapshot of the Netflix userbase, containing 10 columns with the following attributes:
