@@ -33,9 +33,10 @@ The dataset provides a snapshot of the Netflix userbase, containing 10 columns w
   <img src="https://github.com/ViaThanh/3-Netflix-Users-Behaviours-Analysis/blob/main/Charts/Revenue%20by%20Country.png" width="300">
 </p>
 <p align="center">
-  <img src="https://github.com/ViaThanh/3-Netflix-Users-Behaviours-Analysis/blob/main/Charts/Country%20Distribution.png" height="250">
-  <img src="https://github.com/ViaThanh/3-Netflix-Users-Behaviours-Analysis/blob/main/Charts/Users%20joining%20over%20Time.png" height="250">
+  <img src="https://github.com/ViaThanh/3-Netflix-Users-Behaviours-Analysis/blob/main/Charts/Country%20Distribution.png" height="200">
+  <img src="https://github.com/ViaThanh/3-Netflix-Users-Behaviours-Analysis/blob/main/Charts/Users%20joining%20over%20Time.png" height="200">
 </p>
+
 #### 1. **Demographic Analysis**
 - **Age Distribution:**
   - Analyze the distribution of users across different ages to determine which age group constitutes the largest portion of the user base.
