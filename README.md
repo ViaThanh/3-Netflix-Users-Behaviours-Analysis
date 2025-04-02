@@ -29,8 +29,8 @@ The dataset provides a snapshot of the Netflix userbase, containing 10 columns w
 
 ### Data Analysis
 <p align="center">
-  <img src="https://github.com/ViaThanh/3-Netflix-Users-Behaviours-Analysis/blob/main/Charts/Age%20Group%20Distribution.png" height="200">
-  <img src="https://github.com/ViaThanh/3-Netflix-Users-Behaviours-Analysis/blob/main/Charts/Revenue%20by%20Country.png" height="200">
+  <img src="https://github.com/ViaThanh/3-Netflix-Users-Behaviours-Analysis/blob/main/Charts/Age%20Group%20Distribution.png" width="300">
+  <img src="https://github.com/ViaThanh/3-Netflix-Users-Behaviours-Analysis/blob/main/Charts/Revenue%20by%20Country.png" width="300">
 </p>
 <p align="center">
   <img src="https://github.com/ViaThanh/3-Netflix-Users-Behaviours-Analysis/blob/main/Charts/Country%20Distribution.png" height="250">
